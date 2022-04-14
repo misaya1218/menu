@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Test Begin:")
+	fmt.Println("Tes1t Begin:")
 	var str string
 	for {
 		fmt.Scan(&str)
