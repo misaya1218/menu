@@ -9,7 +9,7 @@ func main() {
 		fmt.Scan(&str)
 		switch str {
 		case "quit":./
-			fmt.Println("test over !,quit")
+			fmt.Println("test over1 !,quit")
 			return
 		case "version":
 			fmt.Println("version 1.9")
